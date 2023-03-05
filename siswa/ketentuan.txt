@@ -1,0 +1,6 @@
+#### Perhatikan
+
+1. Terdapat folder [siswa]
+2. Buat folder masing-masing dengan nama kalian, misal [arya]
+3. Kode-kode kalian akan disimpan di dalam folder kalian masing-masing yang terdapat di dalam branch yang saya punya.
+4. Dimana akan terdapat project-project sederhana yang kalian buat, dan saya bisa lihat.
